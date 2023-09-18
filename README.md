@@ -1,3 +1,2 @@
 # Travel_Page_TailwindsCSS
-commit de prueba v3
- 
+commit de prueba v2
